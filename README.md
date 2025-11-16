@@ -1,5 +1,5 @@
 E este é o meu modelo final, na cor verde!
-As alterações ultizador foram cores em rgb, rgba e hex. Foram criadas versões de instâncias syte.css, ondem vou trocando o href da aquivo css que eu queria usar momento, neste exemplo de projeto foi o verde escolhido. 
+As alterações ultizadas foram cores em rgb, rgba e hex. Foram criadas versões de instâncias syte.css, ondem vou trocando o href da arquivo css que eu queria usar momento, neste exemplo de projeto foi o verde escolhido. 
 
 <a href="https://mjvitor.github.io/trilha-css-desafio-01/">Clique aqui para vizualizar</a>
 
