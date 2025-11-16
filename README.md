@@ -20,3 +20,35 @@ que você possa se basear.
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
+
+=
+
+E este é o meu modelo final, na cor verde!
+As alterações ultizador foram cores em rgb, rgba e hex. Foram criadas versões vai instâncias syte.css, ondem vou trocando o href da aquivo css que eu queria usar momento, neste exemplo de projeto foi o verde escolhido. 
+
+<a href="https://mjvitor.github.io/trilha-css-desafio-01/">Clique aqui para vizualizar</a>
+
+
+
+<a href="https://mjvitor.github.io/trilha-css-desafio-01/" class="fullpage-link">
+  <img src="sua-imagem.jpg" alt="Descrição da imagem">
+</a>
+
+<style>
+  .fullpage-link,
+  .fullpage-link img {
+    display: block;
+    width: 100vw; 
+    height: 100vh;  
+  }
+
+  .fullpage-link img {
+    object-fit: cover;   
+    object-position: center;
+  }
+
+  body, html {
+    margin: 0;
+    padding: 0;
+  }
+</style>
