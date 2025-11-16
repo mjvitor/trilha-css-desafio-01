@@ -6,7 +6,7 @@ body {
 
 h2 {
   font-size: 2rem;
-  color: #33A8DB;
+  color: #26f553;
   font-weight: bold;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -27,7 +27,7 @@ section {
   background-repeat: no-repeat;
   height: 600px;
   padding-top: 60px;
-  border-bottom: 1px solid #33A8DB80;
+  border-bottom: 1px solid #26f553;
 }
 
 .banner .banner-content {
@@ -42,7 +42,7 @@ section {
   font-weight: 900;
   text-transform: uppercase;
   color: transparent;
-  background: -webkit-linear-gradient(#33A8DB, #1472B7);
+  background: -webkit-linear-gradient(#26f553, #12b141);
   background-clip: text;
   -webkit-background-clip: text;
 }
@@ -70,14 +70,14 @@ section {
 }
 
 .banner .banner-content button {
-  color: #31A8DD;
+  color: #26f553;
   font-size: 1rem;
   font-weight: bold;
   padding: 16px 32px;
   text-transform: uppercase;
   letter-spacing: 4px;
   background-color: transparent;
-  border-image: linear-gradient(#3BA1CD, #1572B7);
+  border-image: linear-gradient(#26f553, #12b141);
   border-image-slice: 10;
   border-radius: 30px;
 }
@@ -95,7 +95,7 @@ section {
   color: white;
   width: 530px;
   margin: 0 auto 24px;
-  border: 1px solid #33A8DB;
+  border: 1px solid #26f553;
   background-color: #252525;
   padding: 16px;
   border-radius: 100px;
@@ -103,7 +103,7 @@ section {
 }
 
 #course-content .modules-list .module span {
-  color: #33A8DB;
+  color: #26f553;
 }
 
 #transform-world {
@@ -111,8 +111,8 @@ section {
   background-size: cover;
   background-image: url("../images/woman-code.png");
   background-attachment: fixed;
-  border-top: 1px solid #33A8DB80;
-  border-bottom: 1px solid #33A8DB80;
+  border-top: 1px solid #26f553;
+  border-bottom: 1px solid #26f553;
   padding: 200px;
 }
 
@@ -121,7 +121,7 @@ section {
   font-size: 2.5rem;
   text-transform: lowercase;
   max-width: 250px;
-  text-shadow: 3px 2px #33A8DB;
+  text-shadow: 3px 2px #26f553;
 }
 
 #professional-challenges {
@@ -137,7 +137,7 @@ footer {
   padding: 60px 0;
   text-align: center;
   background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
-  border-top: 1px solid #33A8DB80;
+  border-top: 1px solid #26f553;
 }
 
 footer .dio-logo {
@@ -145,7 +145,7 @@ footer .dio-logo {
 }
 
 footer a {
-  color: #33A8DB;
+  color: #26f553;
   font-weight: bold;
   text-decoration: none;
 }
