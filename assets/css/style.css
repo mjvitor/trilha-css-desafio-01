@@ -1,4 +1,4 @@
-@import url("/assets/css/reset.css");
+@import url(/assets/css/reset.css);
 
 * {
   margin: 0;
@@ -11,12 +11,8 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-
-  /* gradiente embaixo, imagem por cima */
-  background-image: 
-    linear-gradient(#040404, #102735),
-    url("/assets/images/banner.png");
-
+  background-image: url("/assets/images/banner.png"),
+    linear-gradient(#040404, #102735);
   border-bottom: solid 2px #33a8db80;
 }
 
@@ -25,12 +21,10 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 514px;
-  width: 100%;
+  width: 514px;
 }
 
-/* corrigido: antes estava .banner .logo */
-.banner-content .logo {
+.banner .logo {
   background-color: rgba(0, 0, 0, 0.2);
   height: 260px;
   width: 260px;
@@ -86,8 +80,7 @@ main {
   align-items: center;
   justify-content: center;
   text-align: center;
-  max-width: 800px;
-  width: 100%;
+  width: 800px;
   margin-bottom: 80px;
 }
 
@@ -115,8 +108,7 @@ main {
 .modules-list .module {
   background-color: #252525;
   border-radius: 25px;
-  max-width: 600px;
-  width: 100%;
+  width: 600px;
   height: 50px;
   margin: 20px 0;
   display: flex;
@@ -133,17 +125,15 @@ main {
   background-attachment: fixed;
   border-top: 2px solid #33a8db80;
   border-bottom: 2px solid #33a8db80;
-
   display: flex;
   justify-content: flex-start;
   align-items: center;
-
-  /* Corrigido: padding imenso */
-  padding: 200px 20px;
+  padding: 200px;
 }
 
 #transform-world p {
-  max-width: 350px;
+  width: 350px;
+  height: 100%;
   font-size: 60px;
   text-transform: lowercase;
   display: flex;
@@ -157,8 +147,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 800px;
-  width: 100%;
+  width: 800px;
   margin: 40px 0;
 }
 
