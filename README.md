@@ -28,27 +28,3 @@ As alterações ultizador foram cores em rgb, rgba e hex. Foram criadas versões
 
 <a href="https://mjvitor.github.io/trilha-css-desafio-01/">Clique aqui para vizualizar</a>
 
-
-
-<a href="https://mjvitor.github.io/trilha-css-desafio-01/" class="fullpage-link">
-  <img src="sua-imagem.jpg" alt="Descrição da imagem">
-</a>
-
-<style>
-  .fullpage-link,
-  .fullpage-link img {
-    display: block;
-    width: 100vw; 
-    height: 100vh;  
-  }
-
-  .fullpage-link img {
-    object-fit: cover;   
-    object-position: center;
-  }
-
-  body, html {
-    margin: 0;
-    padding: 0;
-  }
-</style>
