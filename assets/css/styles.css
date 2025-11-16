@@ -22,7 +22,7 @@ section {
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('../images/banner.png');
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(19, 214, 62, 0.2), rgba(0, 0, 0, .6)), url('../images/banner.png');
   background-size: cover;
   background-repeat: no-repeat;
   height: 600px;
@@ -136,7 +136,7 @@ section {
 footer {
   padding: 60px 0;
   text-align: center;
-  background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+  background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 219, 101, 0.2));
   border-top: 1px solid #26f553;
 }
 
